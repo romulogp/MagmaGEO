@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><kml
+    xmlns="http://earth.google.com/kml/2.0">
+    <Document>
+        <Folder>
+             <name>Ocorrencias em Bairros</name>
+             <visibility>0</visibility>
+
+             <Placemark>
+		<Polygon><outerBoundaryIs><LinearRing><coordinates>-48.32207435176101,-26.35582633528281 -49.2110994259642,-26.053286515738161 -50.38862735714671,-26.77764369514184 -50.465399200286697,-27.774680109975201 -49.245281469579979,-28.412824264942731 -47.687062933014843,-27.896196197510719 -48.32207435176101,-26.35582633528281</coordinates></LinearRing></outerBoundaryIs></Polygon>                 <Style>
+                     <PolyStyle>
+                         <color>ff0000</color>
+                         <colorMode>normal</colorMode>
+                         <fill>1</fill>
+                         <outline>0</outline>
+                     </PolyStyle>
+                 </Style>
+             </Placemark>
+        </Folder>
+    </Document>
+</kml>
